@@ -58,5 +58,4 @@
 - The government's support initiatives, exemplified by the Kerala Startup Mission (KSUM), play a pivotal role in nurturing the tech ecosystem. Financial incentives, mentorship programs, and infrastructure development all contribute to the ecosystem's growth and success.
 
 
-
 ---
